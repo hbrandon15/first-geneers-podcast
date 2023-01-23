@@ -20,7 +20,10 @@ The ability to auto deploy this site upon any changes to the main branch (produc
 
 ## Lessons learned
 
-##Verstion control 
+We are learning how to build a professional site and collaborate on a medium-sized project
+
+## Version control 
+
 There have been a few times we had to back track to figure out what went wrong. From `git checkout <branch-name>` to `git log` and `git checkout -b <new-branch-name>` to figuring out how to reconcile merge conflicts, we became more familiar with using a variety of git commands.
 
 ## Debugging
