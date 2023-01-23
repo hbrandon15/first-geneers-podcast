@@ -15,7 +15,7 @@ _**Views**_ - Views are made to be responsive.
 _**Model**_ - The model is in progress
 _**Controllers**_ - There is 1 controller
 
-##Optimizations 
+## Optimizations 
 The ability to auto deploy this site upon any changes to the main branch (production branch) ---
 
 ## Lessons learned
@@ -30,10 +30,10 @@ There have been a few times we had to back track to figure out what went wrong. 
 
 On several occasions, some sections of our codebase were not doing what we originally intended. We got practice in going through our own code as a team and find a resolution to the issue.
 
-##Styling
+## Styling
 
 We are focusing on some front-end methods like flex and grid with CSS. 
 
-##User interface design
+## User interface design
 
 We are learning how to make UI models with consideration for creative input. 
