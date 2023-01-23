@@ -1,7 +1,7 @@
 # First-Geneers Podcast Site
 
 The official site for First-Geneers
-
+<!-- TODO: Add logo to readMe -->
 Link: * * * pending * * *
 
 ## How it's made
