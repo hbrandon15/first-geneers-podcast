@@ -2,7 +2,8 @@
 
 The official site for First-Geneers
 <!-- TODO: Add logo to readMe -->
-![firstgeneers laurel logo](./assets/images/first-geneers-laurel-logo.png)
+![firstgeneers laurel logo](./assets/images/first-geneers-laurel-logo.png)\
+\
 Link: * * * pending * * *
 
 ## How it's made
