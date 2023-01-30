@@ -1,5 +1,14 @@
+body{
+    background-color: #222831;
+}
+
 h1{
-    color: #006400;
-    text-decoration: dotted;
-    background: #1E90FF;
+    color: #00ADB5;
+    font-family: 'Source Sans Pro', 'Helvetica' , sans-serif;
+    font-weight: 700;
+}
+
+h2{
+    color: #00ADB5;
+    font-family: 'Source Sans Pro', 'Helvetica', sans-serif;
 }
